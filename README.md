@@ -1,10 +1,10 @@
 # ActionArena
 
 ### Test
-![](/Doc/test.png)
+![](/Doc/test.jpg)
 
 ### Esbozo
-![](/Doc/esbozo1.png)
+![](/Doc/esbozo1.jpg)
 
 ### Arte 3D
 ![](/Doc/arte3d_1.jpg)
