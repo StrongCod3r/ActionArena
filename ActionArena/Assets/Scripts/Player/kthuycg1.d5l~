@@ -1,0 +1,32 @@
+﻿using UnityEngine;
+using System.Collections.Generic;
+using Game.Weapons;
+
+public class PlayerWeapons : MonoBehaviour
+{
+
+    private WeaponBase[] weapons;
+
+    //private List<WeaponBase> weapons;
+
+
+
+    // Use this for initialization
+    private void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    private void Update()
+    {
+
+    }
+
+    public void AddWeapon(Weapon weapon)
+    {
+        weapons[(int)weapon] = new MachineGun();
+
+        
+    }
+}
